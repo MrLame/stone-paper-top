@@ -1,0 +1,22 @@
+*{
+    margin-bottom: 20px;
+}
+.line-one{
+    background-color: lightpink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#line-two{
+    color: blue;
+    font-size: 36px;
+}
+
+.line-three{
+    font-size: 24px;
+}
+
+#line-four{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
